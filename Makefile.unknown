@@ -1,0 +1,29 @@
+CC = gcc
+CFLAGS = -Wall -Wextra -std=c99
+TARGET = criminal_management_system
+
+# Source files
+SOURCES = main.c criminal.c case.c graph.c history.c
+OBJECTS = $(SOURCES:.c=.o)
+
+$(TARGET): $(OBJECTS)
+	$(CC) $(CFLAGS) -o $(TARGET) $(OBJECTS)
+
+# Compile each source file to object file
+%.o: %.c
+	$(CC) $(CFLAGS) -c $< -o $@
+
+clean:
+	rm -f $(OBJECTS) $(TARGET)
+
+run: $(TARGET)
+	./$(TARGET)
+
+# Dependencies
+main.o: main.c criminal.h case.h graph.h history.h
+criminal.o: criminal.c criminal.h history.h
+case.o: case.c case.h history.h
+graph.o: graph.c graph.h history.h
+history.o: history.c history.h
+
+.PHONY: clean run
