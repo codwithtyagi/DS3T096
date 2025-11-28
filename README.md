@@ -103,3 +103,5 @@ To remove compiled files:
 ```bash
 make clean
 ```
+
+git commit -m "Delete <Readme.md>"
