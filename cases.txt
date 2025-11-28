@@ -1,0 +1,104 @@
+103
+1002|Identity Theft Case|Multiple victims reported identity theft from credit card fraud|102|1|Under Investigation
+1003|Assault Incident|Physical assault case with witness statements|103|0|Open
+1004|Fraud Investigation|Corporate fraud investigation involving financial documents|102|0|Closed
+2001|Bank Robbery Investigation|High-profile case requiring immediate attention|200|1|Open
+2002|Identity Theft Case|Multiple victims reported identity theft|201|0|Under Investigation
+2003|Assault Incident|Physical assault case with witness statements|202|0|Closed
+2004|Fraud Investigation|Corporate fraud investigation involving financial documents|203|1|Pending
+2005|Drug Bust Operation|Large-scale drug operation bust|204|0|Open
+2006|Burglary Case|Residential burglary with stolen items|205|0|Under Investigation
+2007|Arson Investigation|Suspicious fire at commercial building|206|1|Closed
+2008|Kidnapping Case|Kidnapping incident with ransom demands|207|0|Pending
+2009|Extortion Scheme|Organized extortion ring investigation|208|0|Open
+2010|Money Laundering|International money laundering operation|209|1|Under Investigation
+2011|Credit Card Fraud|Widespread credit card fraud network|210|0|Closed
+2012|Home Invasion|Home invasion with multiple suspects|211|0|Pending
+2013|Car Theft Ring|Organized vehicle theft operation|212|1|Open
+2014|Cyber Crime Investigation|Complex cybercrime investigation|213|0|Under Investigation
+2015|Murder Case|Homicide case with forensic evidence|214|0|Closed
+2016|Assault and Battery|Violent assault case|215|1|Pending
+2017|Drug Trafficking|Drug distribution network|216|0|Open
+2018|Breaking and Entering|Multiple break-in incidents|217|0|Under Investigation
+2019|Grand Theft Auto|Stolen vehicle investigation|218|1|Closed
+2020|Homicide Investigation|Murder investigation with suspects|219|0|Pending
+2021|Bank Robbery Investigation|High-profile case requiring immediate attention|220|0|Open
+2022|Identity Theft Case|Multiple victims reported identity theft|221|1|Under Investigation
+2023|Assault Incident|Physical assault case with witness statements|222|0|Closed
+2024|Fraud Investigation|Corporate fraud investigation involving financial documents|223|0|Pending
+2025|Drug Bust Operation|Large-scale drug operation bust|224|1|Open
+2026|Burglary Case|Residential burglary with stolen items|225|0|Under Investigation
+2027|Arson Investigation|Suspicious fire at commercial building|226|0|Closed
+2028|Kidnapping Case|Kidnapping incident with ransom demands|227|1|Pending
+2029|Extortion Scheme|Organized extortion ring investigation|228|0|Open
+2030|Money Laundering|International money laundering operation|229|0|Under Investigation
+2031|Credit Card Fraud|Widespread credit card fraud network|230|1|Closed
+2032|Home Invasion|Home invasion with multiple suspects|231|0|Pending
+2033|Car Theft Ring|Organized vehicle theft operation|232|0|Open
+2034|Cyber Crime Investigation|Complex cybercrime investigation|233|1|Under Investigation
+2035|Murder Case|Homicide case with forensic evidence|234|0|Closed
+2036|Assault and Battery|Violent assault case|235|0|Pending
+2037|Drug Trafficking|Drug distribution network|236|1|Open
+2038|Breaking and Entering|Multiple break-in incidents|237|0|Under Investigation
+2039|Grand Theft Auto|Stolen vehicle investigation|238|0|Closed
+2040|Homicide Investigation|Murder investigation with suspects|239|1|Pending
+2041|Bank Robbery Investigation|High-profile case requiring immediate attention|240|0|Open
+2042|Identity Theft Case|Multiple victims reported identity theft|241|0|Under Investigation
+2043|Assault Incident|Physical assault case with witness statements|242|1|Closed
+2044|Fraud Investigation|Corporate fraud investigation involving financial documents|243|0|Pending
+2045|Drug Bust Operation|Large-scale drug operation bust|244|0|Open
+2046|Burglary Case|Residential burglary with stolen items|245|1|Under Investigation
+2047|Arson Investigation|Suspicious fire at commercial building|246|0|Closed
+2048|Kidnapping Case|Kidnapping incident with ransom demands|247|0|Pending
+2049|Extortion Scheme|Organized extortion ring investigation|248|1|Open
+2050|Money Laundering|International money laundering operation|249|0|Under Investigation
+2051|Credit Card Fraud|Widespread credit card fraud network|250|0|Closed
+2052|Home Invasion|Home invasion with multiple suspects|251|1|Pending
+2053|Car Theft Ring|Organized vehicle theft operation|252|0|Open
+2054|Cyber Crime Investigation|Complex cybercrime investigation|253|0|Under Investigation
+2055|Murder Case|Homicide case with forensic evidence|254|1|Closed
+2056|Assault and Battery|Violent assault case|255|0|Pending
+2057|Drug Trafficking|Drug distribution network|256|0|Open
+2058|Breaking and Entering|Multiple break-in incidents|257|1|Under Investigation
+2059|Grand Theft Auto|Stolen vehicle investigation|258|0|Closed
+2060|Homicide Investigation|Murder investigation with suspects|259|0|Pending
+2061|Bank Robbery Investigation|High-profile case requiring immediate attention|260|1|Open
+2062|Identity Theft Case|Multiple victims reported identity theft|261|0|Under Investigation
+2063|Assault Incident|Physical assault case with witness statements|262|0|Closed
+2064|Fraud Investigation|Corporate fraud investigation involving financial documents|263|1|Pending
+2065|Drug Bust Operation|Large-scale drug operation bust|264|0|Open
+2066|Burglary Case|Residential burglary with stolen items|265|0|Under Investigation
+2067|Arson Investigation|Suspicious fire at commercial building|266|1|Closed
+2068|Kidnapping Case|Kidnapping incident with ransom demands|267|0|Pending
+2069|Extortion Scheme|Organized extortion ring investigation|268|0|Open
+2070|Money Laundering|International money laundering operation|269|1|Under Investigation
+2071|Credit Card Fraud|Widespread credit card fraud network|270|0|Closed
+2072|Home Invasion|Home invasion with multiple suspects|271|0|Pending
+2073|Car Theft Ring|Organized vehicle theft operation|272|1|Open
+2074|Cyber Crime Investigation|Complex cybercrime investigation|273|0|Under Investigation
+2075|Murder Case|Homicide case with forensic evidence|274|0|Closed
+2076|Assault and Battery|Violent assault case|275|1|Pending
+2077|Drug Trafficking|Drug distribution network|276|0|Open
+2078|Breaking and Entering|Multiple break-in incidents|277|0|Under Investigation
+2079|Grand Theft Auto|Stolen vehicle investigation|278|1|Closed
+2080|Homicide Investigation|Murder investigation with suspects|279|0|Pending
+2081|Bank Robbery Investigation|High-profile case requiring immediate attention|280|0|Open
+2082|Identity Theft Case|Multiple victims reported identity theft|281|1|Under Investigation
+2083|Assault Incident|Physical assault case with witness statements|282|0|Closed
+2084|Fraud Investigation|Corporate fraud investigation involving financial documents|283|0|Pending
+2085|Drug Bust Operation|Large-scale drug operation bust|284|1|Open
+2086|Burglary Case|Residential burglary with stolen items|285|0|Under Investigation
+2087|Arson Investigation|Suspicious fire at commercial building|286|0|Closed
+2088|Kidnapping Case|Kidnapping incident with ransom demands|287|1|Pending
+2089|Extortion Scheme|Organized extortion ring investigation|288|0|Open
+2090|Money Laundering|International money laundering operation|289|0|Under Investigation
+2091|Credit Card Fraud|Widespread credit card fraud network|290|1|Closed
+2092|Home Invasion|Home invasion with multiple suspects|291|0|Pending
+2093|Car Theft Ring|Organized vehicle theft operation|292|0|Open
+2094|Cyber Crime Investigation|Complex cybercrime investigation|293|1|Under Investigation
+2095|Murder Case|Homicide case with forensic evidence|294|0|Closed
+2096|Assault and Battery|Violent assault case|295|0|Pending
+2097|Drug Trafficking|Drug distribution network|296|1|Open
+2098|Breaking and Entering|Multiple break-in incidents|297|0|Under Investigation
+2099|Grand Theft Auto|Stolen vehicle investigation|298|0|Closed
+2100|Homicide Investigation|Murder investigation with suspects|299|1|Pending

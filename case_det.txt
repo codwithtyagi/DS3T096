@@ -1,0 +1,153 @@
+152
+101|1|High Profile Theft|Museum heist details|1|Open|Task force assigned
+102|2|Cyber Fraud|Bank breach across borders|0|Under_Investigation|Awaiting report
+118|12|Case Title 118|Detailed desc 3|0|Open|Snapshot 3
+39|67|Case Title 39|Detailed desc 4|1|Open|Snapshot 4
+107|2|Case Title 107|Detailed desc 5|1|Under_Investigation|Snapshot 5
+30|96|Case Title 30|Detailed desc 6|1|Closed|Snapshot 6
+87|132|Case Title 87|Detailed desc 7|1|On Hold|Snapshot 7
+60|67|Case Title 60|Detailed desc 8|1|On Hold|Snapshot 8
+95|34|Case Title 95|Detailed desc 9|0|Open|Snapshot 9
+149|123|Case Title 149|Detailed desc 10|1|Closed|Snapshot 10
+66|50|Case Title 66|Detailed desc 11|1|Under_Investigation|Snapshot 11
+93|45|Case Title 93|Detailed desc 12|0|On Hold|Snapshot 12
+79|144|Case Title 79|Detailed desc 13|1|Under_Investigation|Snapshot 13
+150|44|Case Title 150|Detailed desc 14|1|Under_Investigation|Snapshot 14
+99|43|Case Title 99|Detailed desc 15|1|Open|Snapshot 15
+6|120|Case Title 6|Detailed desc 16|1|Closed|Snapshot 16
+137|106|Case Title 137|Detailed desc 17|0|On Hold|Snapshot 17
+100|49|Case Title 100|Detailed desc 18|1|Closed|Snapshot 18
+102|36|Case Title 102|Detailed desc 19|0|Under_Investigation|Snapshot 19
+87|72|Case Title 87|Detailed desc 20|1|Under_Investigation|Snapshot 20
+86|22|Case Title 86|Detailed desc 21|1|Closed|Snapshot 21
+108|102|Case Title 108|Detailed desc 22|0|Closed|Snapshot 22
+96|114|Case Title 96|Detailed desc 23|1|Under_Investigation|Snapshot 23
+124|74|Case Title 124|Detailed desc 24|0|Under_Investigation|Snapshot 24
+141|11|Case Title 141|Detailed desc 25|1|Open|Snapshot 25
+89|134|Case Title 89|Detailed desc 26|0|Open|Snapshot 26
+8|81|Case Title 8|Detailed desc 27|1|Under_Investigation|Snapshot 27
+2|108|Case Title 2|Detailed desc 28|1|Open|Snapshot 28
+76|96|Case Title 76|Detailed desc 29|1|Open|Snapshot 29
+149|3|Case Title 149|Detailed desc 30|0|On Hold|Snapshot 30
+142|25|Case Title 142|Detailed desc 31|1|Open|Snapshot 31
+130|93|Case Title 130|Detailed desc 32|1|Under_Investigation|Snapshot 32
+77|46|Case Title 77|Detailed desc 33|0|Open|Snapshot 33
+91|32|Case Title 91|Detailed desc 34|1|Open|Snapshot 34
+30|104|Case Title 30|Detailed desc 35|1|Closed|Snapshot 35
+2|40|Case Title 2|Detailed desc 36|1|Open|Snapshot 36
+90|99|Case Title 90|Detailed desc 37|1|Under_Investigation|Snapshot 37
+5|30|Case Title 5|Detailed desc 38|1|Open|Snapshot 38
+96|93|Case Title 96|Detailed desc 39|1|On Hold|Snapshot 39
+51|144|Case Title 51|Detailed desc 40|1|On Hold|Snapshot 40
+40|31|Case Title 40|Detailed desc 41|0|On Hold|Snapshot 41
+13|97|Case Title 13|Detailed desc 42|0|Closed|Snapshot 42
+122|126|Case Title 122|Detailed desc 43|0|Under_Investigation|Snapshot 43
+5|52|Case Title 5|Detailed desc 44|1|Closed|Snapshot 44
+150|58|Case Title 150|Detailed desc 45|1|Under_Investigation|Snapshot 45
+42|42|Case Title 42|Detailed desc 46|1|Under_Investigation|Snapshot 46
+11|131|Case Title 11|Detailed desc 47|1|Under_Investigation|Snapshot 47
+101|71|Case Title 101|Detailed desc 48|0|Open|Snapshot 48
+96|55|Case Title 96|Detailed desc 49|1|Open|Snapshot 49
+110|134|Case Title 110|Detailed desc 50|0|On Hold|Snapshot 50
+55|90|Case Title 55|Detailed desc 51|0|Under_Investigation|Snapshot 51
+18|15|Case Title 18|Detailed desc 52|0|Closed|Snapshot 52
+79|43|Case Title 79|Detailed desc 53|1|Under_Investigation|Snapshot 53
+79|53|Case Title 79|Detailed desc 54|1|Open|Snapshot 54
+88|79|Case Title 88|Detailed desc 55|0|On Hold|Snapshot 55
+128|116|Case Title 128|Detailed desc 56|1|On Hold|Snapshot 56
+106|8|Case Title 106|Detailed desc 57|1|On Hold|Snapshot 57
+60|10|Case Title 60|Detailed desc 58|1|Closed|Snapshot 58
+98|127|Case Title 98|Detailed desc 59|0|On Hold|Snapshot 59
+26|44|Case Title 26|Detailed desc 60|1|Open|Snapshot 60
+70|39|Case Title 70|Detailed desc 61|0|Closed|Snapshot 61
+49|132|Case Title 49|Detailed desc 62|1|Closed|Snapshot 62
+3|60|Case Title 3|Detailed desc 63|0|Closed|Snapshot 63
+136|81|Case Title 136|Detailed desc 64|1|Closed|Snapshot 64
+123|42|Case Title 123|Detailed desc 65|1|Open|Snapshot 65
+42|22|Case Title 42|Detailed desc 66|0|Open|Snapshot 66
+98|124|Case Title 98|Detailed desc 67|1|Closed|Snapshot 67
+110|64|Case Title 110|Detailed desc 68|1|Under_Investigation|Snapshot 68
+40|108|Case Title 40|Detailed desc 69|1|Under_Investigation|Snapshot 69
+116|123|Case Title 116|Detailed desc 70|0|On Hold|Snapshot 70
+58|100|Case Title 58|Detailed desc 71|0|On Hold|Snapshot 71
+20|50|Case Title 20|Detailed desc 72|1|Closed|Snapshot 72
+9|58|Case Title 9|Detailed desc 73|1|Closed|Snapshot 73
+20|97|Case Title 20|Detailed desc 74|1|Under_Investigation|Snapshot 74
+144|63|Case Title 144|Detailed desc 75|0|On Hold|Snapshot 75
+129|85|Case Title 129|Detailed desc 76|0|On Hold|Snapshot 76
+23|82|Case Title 23|Detailed desc 77|0|Under_Investigation|Snapshot 77
+20|75|Case Title 20|Detailed desc 78|1|Open|Snapshot 78
+108|7|Case Title 108|Detailed desc 79|1|On Hold|Snapshot 79
+143|30|Case Title 143|Detailed desc 80|0|On Hold|Snapshot 80
+62|92|Case Title 62|Detailed desc 81|0|Closed|Snapshot 81
+54|78|Case Title 54|Detailed desc 82|0|Open|Snapshot 82
+116|99|Case Title 116|Detailed desc 83|0|Open|Snapshot 83
+101|13|Case Title 101|Detailed desc 84|0|Under_Investigation|Snapshot 84
+59|29|Case Title 59|Detailed desc 85|0|Open|Snapshot 85
+109|63|Case Title 109|Detailed desc 86|1|Open|Snapshot 86
+17|4|Case Title 17|Detailed desc 87|0|Open|Snapshot 87
+18|110|Case Title 18|Detailed desc 88|0|On Hold|Snapshot 88
+129|34|Case Title 129|Detailed desc 89|0|Closed|Snapshot 89
+7|113|Case Title 7|Detailed desc 90|1|On Hold|Snapshot 90
+55|135|Case Title 55|Detailed desc 91|0|Closed|Snapshot 91
+65|130|Case Title 65|Detailed desc 92|1|Open|Snapshot 92
+150|80|Case Title 150|Detailed desc 93|1|Closed|Snapshot 93
+93|71|Case Title 93|Detailed desc 94|1|On Hold|Snapshot 94
+127|62|Case Title 127|Detailed desc 95|0|Under_Investigation|Snapshot 95
+85|142|Case Title 85|Detailed desc 96|1|Open|Snapshot 96
+94|101|Case Title 94|Detailed desc 97|0|Closed|Snapshot 97
+94|34|Case Title 94|Detailed desc 98|0|Under_Investigation|Snapshot 98
+38|89|Case Title 38|Detailed desc 99|1|Open|Snapshot 99
+144|108|Case Title 144|Detailed desc 100|1|Closed|Snapshot 100
+44|80|Case Title 44|Detailed desc 101|0|Open|Snapshot 101
+40|112|Case Title 40|Detailed desc 102|0|Under_Investigation|Snapshot 102
+45|147|Case Title 45|Detailed desc 103|1|On Hold|Snapshot 103
+139|64|Case Title 139|Detailed desc 104|0|Open|Snapshot 104
+91|131|Case Title 91|Detailed desc 105|1|Under_Investigation|Snapshot 105
+116|6|Case Title 116|Detailed desc 106|0|Closed|Snapshot 106
+39|138|Case Title 39|Detailed desc 107|1|On Hold|Snapshot 107
+110|72|Case Title 110|Detailed desc 108|1|Open|Snapshot 108
+143|95|Case Title 143|Detailed desc 109|0|Closed|Snapshot 109
+66|23|Case Title 66|Detailed desc 110|1|Open|Snapshot 110
+17|129|Case Title 17|Detailed desc 111|0|Open|Snapshot 111
+89|87|Case Title 89|Detailed desc 112|1|On Hold|Snapshot 112
+67|21|Case Title 67|Detailed desc 113|0|Open|Snapshot 113
+85|25|Case Title 85|Detailed desc 114|1|Under_Investigation|Snapshot 114
+59|16|Case Title 59|Detailed desc 115|0|Open|Snapshot 115
+121|12|Case Title 121|Detailed desc 116|0|Closed|Snapshot 116
+50|65|Case Title 50|Detailed desc 117|1|Under_Investigation|Snapshot 117
+142|53|Case Title 142|Detailed desc 118|1|Under_Investigation|Snapshot 118
+25|116|Case Title 25|Detailed desc 119|0|Under_Investigation|Snapshot 119
+109|85|Case Title 109|Detailed desc 120|1|Closed|Snapshot 120
+96|59|Case Title 96|Detailed desc 121|0|On Hold|Snapshot 121
+29|142|Case Title 29|Detailed desc 122|1|Under_Investigation|Snapshot 122
+142|69|Case Title 142|Detailed desc 123|0|On Hold|Snapshot 123
+58|62|Case Title 58|Detailed desc 124|0|On Hold|Snapshot 124
+22|32|Case Title 22|Detailed desc 125|0|Closed|Snapshot 125
+51|41|Case Title 51|Detailed desc 126|1|On Hold|Snapshot 126
+104|42|Case Title 104|Detailed desc 127|1|Under_Investigation|Snapshot 127
+26|64|Case Title 26|Detailed desc 128|1|On Hold|Snapshot 128
+143|13|Case Title 143|Detailed desc 129|0|Open|Snapshot 129
+135|140|Case Title 135|Detailed desc 130|0|Under_Investigation|Snapshot 130
+42|150|Case Title 42|Detailed desc 131|0|Open|Snapshot 131
+85|63|Case Title 85|Detailed desc 132|1|Open|Snapshot 132
+18|68|Case Title 18|Detailed desc 133|1|Open|Snapshot 133
+134|45|Case Title 134|Detailed desc 134|1|Under_Investigation|Snapshot 134
+13|33|Case Title 13|Detailed desc 135|0|Closed|Snapshot 135
+7|24|Case Title 7|Detailed desc 136|0|Closed|Snapshot 136
+31|74|Case Title 31|Detailed desc 137|1|Closed|Snapshot 137
+56|82|Case Title 56|Detailed desc 138|1|On Hold|Snapshot 138
+85|107|Case Title 85|Detailed desc 139|1|Open|Snapshot 139
+80|29|Case Title 80|Detailed desc 140|0|Under_Investigation|Snapshot 140
+57|108|Case Title 57|Detailed desc 141|0|On Hold|Snapshot 141
+115|85|Case Title 115|Detailed desc 142|0|Under_Investigation|Snapshot 142
+25|139|Case Title 25|Detailed desc 143|0|Under_Investigation|Snapshot 143
+38|131|Case Title 38|Detailed desc 144|0|Under_Investigation|Snapshot 144
+56|85|Case Title 56|Detailed desc 145|1|Under_Investigation|Snapshot 145
+110|119|Case Title 110|Detailed desc 146|0|Closed|Snapshot 146
+114|74|Case Title 114|Detailed desc 147|0|On Hold|Snapshot 147
+6|81|Case Title 6|Detailed desc 148|0|Open|Snapshot 148
+63|13|Case Title 63|Detailed desc 149|1|Under_Investigation|Snapshot 149
+131|109|Case Title 131|Detailed desc 150|1|On Hold|Snapshot 150
+67|12|Case Title 67|Detailed desc 151|0|Under_Investigation|Snapshot 151
+12|86|Case Title 12|Detailed desc 152|1|Under_Investigation|Snapshot 152
